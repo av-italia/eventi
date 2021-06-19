@@ -1,4 +1,4 @@
-# eventi
+# eventi (test)
 
 Pagine organizzative/di info per eventi/cubi in giro per l'Italia: un
 [esempio
